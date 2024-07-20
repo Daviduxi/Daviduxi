@@ -36,7 +36,7 @@
 <a href="https://github.com/Daviduxi?tab=repositories"> <img src="https://cdn-icons-png.freepik.com/512/889/889192.png" width="50" height="50">
 <a href="https://www.youtube.com/channel/UC8ycV18euI44_RBpFSukS3Q"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="50">
 <a href="https://www.twitch.tv/daviduxi"> <img src="https://static-00.iconduck.com/assets.00/twitch-icon-2048x2048-tipdihgh.png" width="50" height="50">
-<a href="discordapp.com/usuarios/708335553971486797"><img src="https://static.vecteezy.com/system/resources/previews/023/741/147/original/discord-logo-icon-social-media-icon-free-png.png" width="50" height="50">
+<a href="https://discordapp.com/users/708335553971486797"><img src="https://static.vecteezy.com/system/resources/previews/023/741/147/original/discord-logo-icon-social-media-icon-free-png.png" width="50" height="50">
 
 <h3>
 - Discord username: daviduxi
