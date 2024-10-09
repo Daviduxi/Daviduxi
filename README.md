@@ -14,13 +14,14 @@
 <h3 align="left"> Currently learning: </h3>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50">
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50">
 
 <h3 align="left"> Future goals: </h3>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="50" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50">
 <img src="https://companieslogo.com/img/orig/U.D-7a606e31.png?t=1720244494" width="50" height="50">
 <img src="https://www.nicepng.com/png/full/321-3211558_unreal-logo-png-for-kids-unreal-engine-icon.png" width="50" height="50">
