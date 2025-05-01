@@ -17,6 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="50" height "50">
 
 <h3 align="left"> Future goals: </h3>
 <p align="left">
