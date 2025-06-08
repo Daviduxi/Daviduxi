@@ -1,4 +1,4 @@
-<h1 align="center"> ¡Hey! I am David Rodriguez, or Daviduxi online 😉 </h1> 
+<h1 align="center"> ¡Hey! I am David Rodriguez, or Daviduxi online 😉 </h1>
 <h3 align="center"> I enjoy learning about my hobbies such as programming and videogame development. </h3> 
 <h3 align="center"> <img src="https://timelinecovers.pro/facebook-cover/download/TV-Show-Adventure-Time-facebook-cover.jpg"> 
 
