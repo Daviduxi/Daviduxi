@@ -9,6 +9,7 @@
 - 🔭 Native Spanish. I speak fluent English, Spanish, Catalan and a little French 
 - 🪴I'd like to learn Japanese and Portuguese
 - 🐶 Animal lover
+- ⚽ Sports player
 
 <picture> <img align="right" src="https://github.com/sebastiansanhuezao/sebastiansanhuezao/blob/main/gif.gif?raw=true" width = 400px></picture>
 <h3 align="left"> Currently learning: </h3>
