@@ -20,6 +20,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
 <img src="https://companieslogo.com/img/orig/U.D-7a606e31.png?t=1720244494" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="50" height "50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height "50">
 
 <h3 align="left"> Future goals: </h3>
 <p align="left">
