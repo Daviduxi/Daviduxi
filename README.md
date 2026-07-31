@@ -14,12 +14,12 @@
 <picture> <img align="right" src="https://github.com/sebastiansanhuezao/sebastiansanhuezao/blob/main/gif.gif?raw=true" width = 400px></picture>
 <h3 align="left"> Currently learning: </h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="50" height="50">
 <img src="https://companieslogo.com/img/orig/U.D-7a606e31.png?t=1720244494" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="50" height "50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/330px-R_logo.svg.png" width="50" height "50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height "50">
 
 <h3 align="left"> Future goals: </h3>
@@ -35,7 +35,7 @@
 
 <h1 align="left"> Contact me!
 <p align="left">
-<a href="https://www.instagram.com/daviid_rm21/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50">
+<a href="https://www.instagram.com/daviid_rm21/"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50">
 <a href="https://x.com/daviid_rm21"> <img src="https://static.vecteezy.com/system/resources/thumbnails/027/395/710/small_2x/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" width="50" height="50">
 <a href="https://github.com/Daviduxi?tab=repositories"> <img src="https://cdn-icons-png.freepik.com/512/889/889192.png" width="50" height="50">
 <a href="https://www.youtube.com/channel/UC8ycV18euI44_RBpFSukS3Q"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50" height="50">
